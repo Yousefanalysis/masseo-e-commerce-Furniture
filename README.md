@@ -10,7 +10,7 @@
 
 - **Client / Domain:** E-commerce Furniture Retail — Masseo (multi-channel Egyptian furniture operation)
 - **Project Type:** Freelance delivery
-- **Timeline:** [FILL: Month Year – Month Year]
+- **Timeline:** October 2025 – January 2026
 - **Tools:** Power BI Desktop, Power Query (M), DAX, Excel, Tabular Editor
 - **Role:** Sole Data Analyst / BI Developer
 - **Delivery:** Interactive Power BI report (5 pages: Menu · Operations Performance Pulse · Sales Report · Insight & Recommended · Inventory Analysis) with bilingual (AR/EN) data and a 7-folder measure architecture covering revenue, leakage, delivery performance, role-playing-date analytics, customer retention, and month-over-month presentation
