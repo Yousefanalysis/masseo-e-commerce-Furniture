@@ -1,0 +1,37 @@
+# Power BI
+*.pbix.bak
+*.pbix.lock
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+*.xlsb
+*.xlsm
+
+# OS-generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credentials and secrets
+*.env
+*.key
+secrets.json
+credentials.json
+
+# Python / Jupyter (if used for analysis)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# R (if used)
+.Rhistory
+.RData
+
+# Temp / logs
+*.log
+*.tmp
+*.temp
+
+# Node (if used for tooling)
+node_modules/
